@@ -1,0 +1,22 @@
+{
+  "name": "wa-sans-bot",
+  "version": "1.0.0",
+  "description": "Wa sans!",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjdgustn/wa-sans-bot.git"
+  },
+  "author": "Hyonsu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wjdgustn/wa-sans-bot/issues"
+  },
+  "homepage": "https://github.com/wjdgustn/wa-sans-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
